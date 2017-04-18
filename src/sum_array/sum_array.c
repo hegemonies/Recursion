@@ -1,3 +1,4 @@
+#include "sum_array.h"
 
 int sum_array_rec(int arr[], int num)
 {
